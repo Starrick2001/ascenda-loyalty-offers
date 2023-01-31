@@ -86,7 +86,7 @@ API Endpoint: http://{host}:{port}/offer?offerApi={offerApi}&checkinDate={checki
 ## Test
 ```bash
 # unit tests
-$ yarn run test
+$ yarn test
 ```
 
 ![image](https://user-images.githubusercontent.com/24567549/215736734-0a5334a5-1118-48b0-ba73-b55a615d569e.png)
