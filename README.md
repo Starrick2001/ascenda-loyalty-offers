@@ -71,3 +71,22 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](LICENSE).
+
+## Usage
+I have build Offer Module to solve the exercise, 
+
+API Endpoint: http://{host}:{port}/offer?offerApi={offerApi}&checkinDate={checkinDate}
+
+![image](https://user-images.githubusercontent.com/24567549/215724963-001d1ea3-d871-4d68-b9c2-52c1d6f08851.png)
+
+### Response
+
+![image](https://user-images.githubusercontent.com/24567549/215727060-5d42e506-d5fa-4842-8302-c3cca311d2a5.png)
+
+## Test
+```bash
+# unit tests
+$ yarn run test
+```
+
+![image](https://user-images.githubusercontent.com/24567549/215736734-0a5334a5-1118-48b0-ba73-b55a615d569e.png)
