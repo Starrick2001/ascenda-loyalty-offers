@@ -1,5 +1,5 @@
 # ascenda-loyalty-offers
-I have build Simple NodeJS App (Typescript language) to solve the exercise. It will return the result in console 
+I have built Simple NodeJS App (Typescript language) to solve the exercise. It will return the result in console 
 # Requirement
 Install dependencies
 ```bash
