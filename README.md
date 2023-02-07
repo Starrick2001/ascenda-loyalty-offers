@@ -11,7 +11,7 @@ yarn
 ```
 It requires nodemon globally
 ```bash
-npm i -g nodemon
+npm i -g nodemon ts-node
 ```
 # Start
 ```bash
